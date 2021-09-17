@@ -1,1 +1,0 @@
-"use strict";window.addEventListener("load",(function(){nav.style="display: none"}));let icon=document.getElementById("nav-icon"),nav=document.getElementById("navbar");function toggleNav(){$("#navbar").slideToggle()}icon.addEventListener("click",toggleNav),console.log("Hej från notmain.js");
